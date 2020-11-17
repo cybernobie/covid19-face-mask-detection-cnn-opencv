@@ -4,7 +4,7 @@
 <div align= "center">
   <h4>Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in video streams.</h4>
 </div>
-## Installation Commands
+## :star: Installation :
 <p><b>pip install opencv-python
 
 pip install numpy
