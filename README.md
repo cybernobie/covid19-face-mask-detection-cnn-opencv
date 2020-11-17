@@ -23,6 +23,7 @@ pip install tensorflow</b></p>
 ## :innocent: Motivation
 In the present scenario due to Covid-19, there is no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. Also, the absence of large datasets of __‘with_mask’__ images has made this task more cumbersome and challenging. 
 
+<a href="https://colab.research.google.com/github.com/cybernobie/covid19-face-mask-detection-cnn-opencv/blob/main/face_mask_detection.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## :star: Features
 
