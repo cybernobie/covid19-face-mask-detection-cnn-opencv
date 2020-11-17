@@ -38,7 +38,7 @@ This dataset consists of __1006 images__ belonging to two classes:
 
 ## :key: Results
 
-#### Our model gave 92% accuracy for Face Mask Detection after training via <code>tensorflow==2.3.0</code>
+#### Our model gave 92% accuracy for Face Mask Detection after training via <code>tensorflow==2.3.1</code>
 
 ![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
 
@@ -47,9 +47,9 @@ This dataset consists of __1006 images__ belonging to two classes:
 
 ## :clap: And it's done!
 Feel free to mail me for any doubts/query 
-:email: amark720@gmail.com
+:email: jkarts91@gmail.com
 
 ## :heart: Owner
-Made with :heart:&nbsp;  by [Amar Kumar](https://github.com/amark720)
+Made with :heart:&nbsp;  by [Aryan Negi](https://github.com/cybernobie)
 
 
