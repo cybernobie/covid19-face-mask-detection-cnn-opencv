@@ -5,16 +5,6 @@
   <h4>Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in video streams.</h4>
 </div>
 
-## :star: Installation :
-
-<p><b>pip install opencv-python
-
-pip install numpy
-
-pip install keras
-
-pip install tensorflow</b></p>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Live Demo:
@@ -48,6 +38,18 @@ This dataset consists of __1006 images__ belonging to two classes:
 3. Running the above .ipynb file will generate Model.h5 file.
 4. Now Run Mask.py file
 5. Done.
+
+NOTE: 
+{
+<p><b>pip install opencv-python
+
+pip install numpy
+
+pip install keras
+
+pip install tensorflow</b></p> 
+To Fix/Install Modules
+}
 
 ## :key: Results
 
