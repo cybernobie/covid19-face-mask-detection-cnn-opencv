@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Live Demo:
-<p align="center"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/FaceMaskGif.gif" width="700" height="400"></p>
+<p align="center"><img src="images_demo/FaceMaskGif.gif" width="700" height="400"></p>
 
 
 
@@ -40,10 +40,10 @@ This dataset consists of __1006 images__ belonging to two classes:
 
 #### Our model gave 92% accuracy for Face Mask Detection after training via <code>tensorflow==2.3.1</code>
 
-![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
+![](images_demo/Screenshot%202020-06-01%20at%209.48.27%20PM.png)
 
 #### We got the following accuracy/loss training curve plot
-![](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/plot.png)
+![](images_demo/plot.png)
 
 ## :clap: And it's done!
 Feel free to mail me for any doubts/query 
