@@ -23,7 +23,6 @@ pip install tensorflow</b></p>
 ## :innocent: Motivation
 In the present scenario due to Covid-19, there is no efficient face mask detection applications which are now in high demand for transportation means, densely populated areas, residential districts, large-scale manufacturers and other enterprises to ensure safety. Also, the absence of large datasets of __‘with_mask’__ images has made this task more cumbersome and challenging. 
 
-<a href="https://colab.research.google.com/github/cybernobie/covid19-face-mask-detection-cnn-opencv/blob/master/face_mask_detection.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## :star: Features
 
@@ -31,6 +30,9 @@ This system can be used in real-time applications which require face-mask detect
 
 ## :file_folder: Dataset
 The dataset used can be downloaded here - [Click to Download](https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset)
+
+
+<a href="https://colab.research.google.com/github/cybernobie/covid19-face-mask-detection-cnn-opencv/blob/main/face_mask_detection.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 This dataset consists of __1006 images__ belonging to two classes:
 *	__with_mask: 500 images__
